@@ -205,7 +205,7 @@
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.6.7",
     "strip-json-comments": "^2.0.1",
-    "tinycolor2": "^1.4.1",
+    "tinycolor2": "^1.6.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^3.10.0",
     "write-file-webpack-plugin": "^4.5.1",
