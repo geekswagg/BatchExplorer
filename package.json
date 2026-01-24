@@ -173,7 +173,7 @@
     "@angular/platform-browser-dynamic": "^11.0.0",
     "@angular/platform-server": "^11.0.0",
     "@angular/router": "^11.0.0",
-    "@azure/msal-node": "^1.14.6",
+    "@azure/msal-node": "^2.0.0",
     "@azure/storage-blob": "^12.11.0",
     "applicationinsights": "^1.8.5",
     "chart.js": "^2.9.3",
